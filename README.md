@@ -26,4 +26,4 @@ I love turning messy data into meaningful insights, and writing code that solves
 ---
 
 ## 📫 How to reach me
-[LinkedIn](https://www.linkedin.com/in/tulasivelamakanni/) • [Instagram][https://www.instagram.com/tulasii.v/]
+[LinkedIn](https://www.linkedin.com/in/tulasivelamakanni/) • [Instagram](https://www.instagram.com/tulasii.v/)
