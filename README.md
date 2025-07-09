@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Naga Tulasi Velamakanni
+# 👋 Hi, I’m Naga Tulasi
 
 ## 💻 About Me
 Generative AI Engineer | Data Scientist | ML Enthusiast | Data Storyteller  
